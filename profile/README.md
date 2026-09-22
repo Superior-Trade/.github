@@ -14,6 +14,7 @@
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://superior.trade/SKILL.md"><strong>Connect your agent →</strong></a>
 </p>
+
 ---
 
 ## From idea to live strategy
@@ -54,7 +55,7 @@ Give your existing agent the Superior Trade skill. It can help turn natural-lang
 | | |
 | --- | --- |
 | **[Trading Terminal](https://github.com/Superior-Trade/trading-terminal)**<br />Use the self-hostable AI trading workspace and see how strategies move from chart context to deployment. | **[Superior Skills](https://github.com/Superior-Trade/superior-skills)**<br />Give an agent practical workflows for researching, backtesting, and operating trading strategies. |
-| **[Strategy Examples](https://github.com/Superior-Trade/superior-examples)**<br />Start with prompts and repeatable workflows instead of a blank page. | **[Superior MCP](https://github.com/Superior-Trade/superior-mcp)**<br />Connect compatible agents to Superior Trade's research, backtesting, and managed trading tools. |
+| **[Strategy Examples](https://github.com/Superior-Trade/superior-examples)**<br />Start with prompts and repeatable workflows instead of a blank page. | **[Hosted MCP](https://api.superior.trade/mcp)**<br />Connect compatible agents to Superior Trade without hosting another server. |
 
 ---
 
